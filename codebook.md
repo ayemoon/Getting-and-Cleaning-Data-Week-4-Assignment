@@ -1,5 +1,10 @@
 About R script
 
+the data was obtained from:
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+Data gathered for the project:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 In accordance with the specified task for the course work, the file with the R code "run analysis.R" executes the five stages below:
 To read the files and in order to combine the test and training sets to produce a single data set.
 Read files in order to examine  training and test tables.
